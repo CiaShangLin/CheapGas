@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c5cae9</color>
+    <color name="colorPrimaryDark">#949dd8</color>
+    <color name="colorAccent">#406dff</color>
+    <color name="toolbar">#7986cb</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="lightBule">#e1f5fe</color>
+
+
+    <color name="primaryColor">#f57b00</color>
+    <color name="primaryLightColor">#ffad42</color>
+    <color name="primaryDarkColor">#bb4d00</color>
+    <color name="primaryTextColor">#000000</color>
+
+
+    <color name="red">#ff0000</color>
+    <color name="green">#348e5c</color>
+    <color name="blud">#00bfff</color>
+    <color name="brown">#d2691e</color>
+    <color name="lightgray">#dcdcdc</color>
+
+    <color name="darkgreen">#006400</color>
+    <color name="royalblue">#4169e1</color>
+
+    <color name="orange">#F7DC6F</color>
+    <color name="darkblue">#2E4053</color>
+    <color name="darkred">#CD6155</color>
+
+
+    <color name="primaryC">#88afc5</color>
+    <color name="primaryCD">#3c566c</color>
+    <color name="primaryCL">#978681</color>
+    <color name="primaryCLD">#C2B5A8</color>
+    <color name="primaryCLL">#e5dfd7</color>
+    <color name="primaryCLW">#EFEFEE</color>
+
+
+</resources>
+

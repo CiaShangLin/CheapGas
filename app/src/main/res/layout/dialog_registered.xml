@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primaryCD">
+
+    <EditText
+        android:id="@+id/account"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="48dp"
+        android:background="@color/primaryCLL"
+        android:drawableLeft="@drawable/ic_login_person"
+        android:drawablePadding="12dp"
+        android:ems="10"
+        android:hint="帳號"
+        android:inputType="textPersonName"
+        android:paddingLeft="12dp"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.96"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline6" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:background="@color/primaryCLL"
+        android:drawableLeft="@drawable/ic_login_password"
+        android:drawablePadding="12dp"
+        android:ems="10"
+        android:hint="密碼"
+        android:inputType="textPassword"
+        android:paddingLeft="12dp"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.96"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/account" />
+
+    <Button
+        android:id="@+id/register"
+        style="@style/LoginButton"
+        android:layout_width="107dp"
+        android:layout_height="54dp"
+        android:layout_marginBottom="48dp"
+        android:layout_marginEnd="32dp"
+        android:background="@drawable/button_custom"
+        android:shadowColor="@android:color/black"
+        android:shadowDx="7"
+        android:shadowDy="2"
+        android:shadowRadius="1"
+        android:text="@string/Continue"
+        android:textColor="@color/primaryCLL"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <EditText
+        android:id="@+id/phone"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:background="@color/primaryCLL"
+        android:drawableLeft="@drawable/ic_login_phone"
+        android:drawablePadding="12dp"
+        android:ems="10"
+        android:hint="手機"
+        android:inputType="textPersonName|phone"
+        android:paddingLeft="12dp"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/password" />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:background="@color/primaryCLL"
+        android:drawableLeft="@drawable/ic_login_email"
+        android:drawablePadding="12dp"
+        android:ems="10"
+        android:hint="Email"
+        android:inputType="textEmailAddress|textPersonName"
+        android:paddingLeft="12dp"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/phone" />
+
+    <TextView
+        android:id="@+id/registerTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:letterSpacing="0.1"
+        android:text="帳號註冊"
+        android:textColor="@color/primaryCLL"
+        android:textSize="48dp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toTopOf="@+id/guideline6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.18" />
+
+    <Button
+        android:id="@+id/backtrack"
+        style="@style/LoginButton"
+        android:layout_width="107dp"
+        android:layout_height="54dp"
+        android:layout_marginBottom="48dp"
+        android:layout_marginStart="32dp"
+        android:background="@drawable/button_custom"
+        android:shadowColor="@android:color/black"
+        android:shadowDx="7"
+        android:shadowDy="2"
+        android:shadowRadius="1"
+        android:text="@string/Backtrack"
+        android:textColor="@color/primaryCLL"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

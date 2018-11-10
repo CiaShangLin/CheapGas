@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">gascheap</string>
+
+    <string name="Login">登入</string>
+    <string name="Regis">註冊</string>
+    <string name="DATA_KEY">DATA_KEY</string>
+    <string name="Setting">Setting</string>
+    <string name="Scanner">掃描信用卡</string>
+    <string name="Determine">確定</string>
+    <string name="Continue">繼續</string>
+    <string name="Backtrack">返回</string>
+
+
+    <!-- 這邊是Sharp 有用到的 -->
+
+    <string-array name="GasArray">
+        <item>92無鉛</item>
+        <item>95無鉛</item>
+        <item>98無鉛</item>
+        <item>超級柴油</item>
+    </string-array>
+
+    <string name="Gas92">92</string>
+    <string name="Gas95">95</string>
+    <string name="Gas98">98</string>
+    <string name="GasDiesel">Diesel</string>
+
+    <string name="Self">自助加油</string>
+    <string name="Normal">一般加油</string>
+
+    <!-- 註冊用 -->
+    <string name="Save_Account">Account</string>
+    <string name="Save_Password">Password</string>
+    <string name="Save_Phone">Phone</string>
+    <string name="Save_Email">Email</string>
+
+
+    <!-- setring用 -->
+    <string name="Save_CreditCard">Save_CreditCard</string>
+    <string name="Choice_Gas">Choice_Gas</string>
+    <string name="Choice_CredtiCard">Choice_CreditCard</string>
+    <string name="Save_distance">Save_distance</string>
+    <string name="Save_much">Save_much</string>
+
+
+
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
