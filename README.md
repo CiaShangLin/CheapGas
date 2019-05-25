@@ -26,6 +26,7 @@
 # 獲得獎項
     1.ITAS智慧終端與人機互動軟體創作競賽佳作
     2.逢甲大學專題發表G組 最佳APP
+<img src=https://github.com/CiaShangLin/CheapGas/blob/master/%E6%AF%94%E8%B3%BD%E5%9C%96%E7%89%87/ITSA.jpg height="360" width="540" >
 
 # 範例圖
-<img src=https://github.com/CiaShangLin/CheapGas/blob/master/%E7%AF%84%E4%BE%8B%E5%9C%96/%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%B3%87%E8%A8%8A.jpg height="540" width="360" >
+|<img src=https://github.com/CiaShangLin/CheapGas/blob/master/%E7%AF%84%E4%BE%8B%E5%9C%96/%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%B3%87%E8%A8%8A.jpg height="540" width="360" >|<img src=https://github.com/CiaShangLin/CheapGas/blob/master/%E7%AF%84%E4%BE%8B%E5%9C%96/%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%B3%87%E8%A8%8A.jpg height="540" width="360" >|<img src=https://github.com/CiaShangLin/CheapGas/blob/master/%E7%AF%84%E4%BE%8B%E5%9C%96/%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%B3%87%E8%A8%8A.jpg height="540" width="360" >
