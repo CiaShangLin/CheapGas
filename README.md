@@ -29,7 +29,7 @@
 <img src=https://github.com/CiaShangLin/CheapGas/blob/master/%E6%AF%94%E8%B3%BD%E5%9C%96%E7%89%87/ITSA.jpg height="360" width="540" >
 
 # 範例圖
-|<img src=https://github.com/CiaShangLin/CheapGas/blob/master/%E7%AF%84%E4%BE%8B%E5%9C%96/%E7%99%BB%E5%85%A5.jpg height="540" width="360" >|<img src=https://github.com/CiaShangLin/CheapGas/blob/master/%E7%AF%84%E4%BE%8B%E5%9C%96/%E8%A8%BB%E5%86%8A.jpg height="540" width="360" >|
+|<img src=https://github.com/CiaShangLin/CheapGas/blob/master/%E7%AF%84%E4%BE%8B%E5%9C%96/%E7%99%BB%E5%85%A5.jpg height="540" width=30% >|<img src=https://github.com/CiaShangLin/CheapGas/blob/master/%E7%AF%84%E4%BE%8B%E5%9C%96/%E8%A8%BB%E5%86%8A.jpg height="540" width="360" >|
 
 <img src=https://github.com/CiaShangLin/CheapGas/blob/master/%E7%AF%84%E4%BE%8B%E5%9C%96/%E8%A8%AD%E5%AE%9A.jpg height="540" width="360" >
 <img src=https://github.com/CiaShangLin/CheapGas/blob/master/%E7%AF%84%E4%BE%8B%E5%9C%96/%E6%AC%8A%E9%99%90%E9%96%8B%E5%95%9F.jpg height="540" width="360" >
