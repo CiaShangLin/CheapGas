@@ -2,11 +2,4 @@
 # 基於影像辨識與網路爬蟲推薦加油站系統APP
 
 
-[文件](https://github.com/ben870217/gascheap/tree/master/%E6%96%87%E4%BB%B6)
-
-![Demo圖](https://github.com/ben870217/gascheap/tree/master/%E7%AF%84%E4%BE%8B%E5%9C%96)
-
-![Demo影片1](https://youtu.be/4y3euFhrgE0)
-
-![Demo影片2](https://youtu.be/hpyAzyTqvak)
-
+![Logo 標題文字 1](https://github.com/CiaShangLin/CheapGas/blob/master/%E7%AF%84%E4%BE%8B%E5%9C%96/%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%B3%87%E8%A8%8A.png "Logo 標題文字 1")
