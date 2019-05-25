@@ -1,4 +1,4 @@
-<img src=https://github.com/CiaShangLin/CheapGas/blob/master/%E7%AF%84%E4%BE%8B%E5%9C%96/%E6%B2%B9%E5%83%B9%E8%A1%A8.jpg height="128" width="128" >
+<img src=https://github.com/CiaShangLin/CheapGas/blob/master/%E7%AF%84%E4%BE%8B%E5%9C%96/icon.png height="128" width="128" >
 
 # 畢業專題 CheapGas  
 # 基於影像辨識與網路爬蟲推薦加油站系統APP
@@ -15,6 +15,7 @@
     1.Android
     2.OpenCv圖像辨識
     3.python Flask
+    4.python 爬蟲
     
 # 學到了什麼
     1.Android Threadpool
